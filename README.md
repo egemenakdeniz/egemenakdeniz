@@ -1,6 +1,6 @@
 ### Egemen Akdeniz 🦅
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=www.instagram.com/egemenakdeniz0/)]www.instagram.com/egemenakdeniz0
+[![Instagram Badge](https://img.shields.io/badge/-IG-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=www.instagram.com/egemenakdeniz0/)]
 
 <!--
 **Dokkaemen/Dokkaemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
