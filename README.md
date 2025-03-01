@@ -18,9 +18,9 @@
 📍 **Notable Courses**: Algorithms, Data Structures, AI, Machine Learning, Database Management, Embedded Systems  
 
 ## 🔗 Connect with Me  
-📩 Email: dokkaemen@gmail.com **
-🔗 LinkedIn: [tr.linkedin.com/in/egemenakdeniz](https://tr.linkedin.com/in/egemenakdeniz)  **
-💻 GitHub: [github.com/egemenakdeniz](https://github.com/egemenakdeniz) **
+📩 **Email:** dokkaemen@gmail.com
+🔗 **LinkedIn:** [tr.linkedin.com/in/egemenakdeniz](https://tr.linkedin.com/in/egemenakdeniz)
+💻 **GitHub:** [github.com/egemenakdeniz](https://github.com/egemenakdeniz)
 
 
 <!--
