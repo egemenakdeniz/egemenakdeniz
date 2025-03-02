@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Egemen Akdeniz  
+# Hi there! 👋 I'm Egemen Akdeniz  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egemenakdeniz&layout=pie)
 
 🚀 Passionate about **Artificial Intelligence & Software Development**  
 🎯 Focused on **Machine Learning, Deep Learning, and Signal Processing**  
