@@ -22,7 +22,7 @@
 🔗 **LinkedIn:** [tr.linkedin.com/in/egemenakdeniz](https://tr.linkedin.com/in/egemenakdeniz)
 💻 **GitHub:** [github.com/egemenakdeniz](https://github.com/egemenakdeniz)
 ##
-#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egemenakdeniz&layout=pie)
 
 <!--
 **Dokkaemen/Dokkaemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
