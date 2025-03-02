@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Egemen Akdeniz  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egemenakdeniz&layout=pie)
+# Hi there! 👋 I'm Egemen Akdeniz
 
 🚀 Passionate about **Artificial Intelligence & Software Development**  
 🎯 Focused on **Machine Learning, Deep Learning, and Signal Processing**  
@@ -21,7 +21,8 @@
 📩 **Email:** dokkaemen@gmail.com
 🔗 **LinkedIn:** [tr.linkedin.com/in/egemenakdeniz](https://tr.linkedin.com/in/egemenakdeniz)
 💻 **GitHub:** [github.com/egemenakdeniz](https://github.com/egemenakdeniz)
-
+##
+#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=pie)
 
 <!--
 **Dokkaemen/Dokkaemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
